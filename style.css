@@ -92,36 +92,45 @@ body {
     padding-bottom: 12px;
 }
 
-.content-element{
+.content-element {
     font-size: 16px;
     margin: 0;
     padding-top: 12px;
     padding-bottom: 12px;
 }
 
-.skill-element{
+.skill-element {
     display: flex;
 }
 
-.balls{
+.balls {
     margin-left: auto;
 }
 
-.degree{
+.degree {
     font-size: 24px;
     font-weight: 900;
+    margin-bottom: 16px;
 }
 
-.education-content p{
-    margin: 8px;
+.eduxperience-content p {
+    margin: 8px 0px 8px 0px;
 }
 
-.underline{
+.eduxperience-content .degree{
+    margin: 8px 0px 24px 0px;
+}
+
+.about {
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.underline {
     border-bottom: 2px solid rgba(40, 41, 46, 255);
-    
 }
 
-a{
+a {
     color: inherit;
     text-decoration: none;
 }

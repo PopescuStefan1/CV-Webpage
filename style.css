@@ -11,7 +11,7 @@ body {
     background-color: white;
     display: grid;
     grid-template-columns: 4fr 6fr;
-    grid-template-rows: 300px 390px 370px 350px;
+    grid-template-rows: 300px 400px 370px 350px;
     grid-auto-rows: 200px;
     grid-template-areas:
         "header header"
@@ -110,19 +110,14 @@ body {
 .degree {
     font-size: 24px;
     font-weight: 900;
-    margin-bottom: 16px;
 }
 
 .eduxperience-content p {
     margin: 8px 0px 8px 0px;
 }
 
-.eduxperience-content .degree{
-    margin: 8px 0px 24px 0px;
-}
-
 .about {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 32px;
 }
 
